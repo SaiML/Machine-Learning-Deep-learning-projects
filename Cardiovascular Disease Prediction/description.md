@@ -28,6 +28,7 @@ The project utilizes a comprehensive dataset with the following features:
 | Green Vegetable Consumption | Patient's consumption of green vegetables.    |
 | Fried Potato Consumption | Patient's consumption of fried potatoes.         |
 
+
 ## Impact
 Through thorough exploratory data analysis, significant insights were revealed about the factors contributing to cardiovascular disease:
 
@@ -38,6 +39,7 @@ Through thorough exploratory data analysis, significant insights were revealed a
 - Smoking history is a notable risk factor.
 - Intriguingly, medical history concerning cancer, arthritis, diabetes, and depression showed no significant impact on cardiovascular disease risk.
 
-This project's predictions and insights empower healthcare professionals to identify high-risk patients and implement preventive measures, ultimately reducing the prevalence of cardiovascular disease.
 
-In conclusion, the Cardiovascular Disease Prediction project underscores the importance of data-driven approaches in healthcare, aiding in the proactive management of patients' cardiovascular health.
+The predictive capabilities and insights of his project equip healthcare professionals with the tools to recognize high-risk patients and enact preventative measures, thereby diminishing the occurrence of cardiovascular disease.
+
+In summary, the Cardiovascular Disease Prediction project highlights the significance of data-driven strategies in healthcare, facilitating proactive patient management for cardiovascular health.
