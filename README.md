@@ -95,7 +95,7 @@ blood pressure, and more
     - **Results:** The random forest regressor gave 87.8% accuracy
     
 You are free to use the code and resources for educational or personal purposes.
-
+    
 ## Contributing
 Contributions are welcome! If you would like to contribute to this repository, please follow the guidelines outlined in CONTRIBUTING.md . Any improvements, bug fixes, or additional projects are greatly appreciated.
 

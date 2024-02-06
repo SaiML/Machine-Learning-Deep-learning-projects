@@ -1,5 +1,6 @@
 # Belarus Car Price Prediction
 ![](https://i0.wp.com/bestsellingcarsblog.com/wp-content/uploads/2020/01/Geely-Atlas-Belarus-2019.jpg?fit=600%2C400&ssl=1)
+
 ## Project Overview:
 The Belarus Car Price Prediction project aims to forecast the prices of cars in Belarus by leveraging a dataset containing essential car features. These features include the make, model, year of production, condition, mileage, fuel type, engine volume, color, transmission type, drive unit, and segment. With a total of 56,244 rows and 12 columns, this project seeks to identify the key variables that have the most significant impact on car prices within the Belarusian market.
 
@@ -19,6 +20,7 @@ The Belarus Car Price Prediction project aims to forecast the prices of cars in 
 | transmission    | Type of transmission                                       |
 | drive unit      | Drive unit                                                 |
 | segment         | Segment of the car                                         |
+
 
 ## Impact:
 Through exploratory data analysis, several key insights were discovered. Notably, there was a significant increase in car prices in Belarus after the year 2000. Cars running on petrol with automatic transmission tend to have higher prices compared to diesel cars with manual transmission. Electric cars stand out as notably more expensive than other car types. Furthermore, cars with all-wheel drive exhibit the highest prices among all drive units, and speciality segment cars command the highest prices among all segments, followed by luxury European, American, and Asian car segments.
